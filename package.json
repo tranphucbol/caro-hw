@@ -18,5 +18,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://tranphucbol.github.io/caro-hw"
+  "homepage": "https://tranphucbol.github.io/caro-hw"
 }
